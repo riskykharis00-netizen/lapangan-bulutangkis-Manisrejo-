@@ -1,0 +1,30 @@
+# Gradle & Kotlin
+*.iml
+.gradle/
+.kotlin/
+/build/
+app/build/
+.build-outputs/
+release/
+
+# Local IDE & OS files
+/.idea/
+.DS_Store
+Thumbs.db
+
+# Local environment & secrets
+/local.properties
+local.properties
+.env
+*.jks
+*.keystore
+debug.keystore
+
+# Android artifacts
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex

@@ -1,0 +1,6 @@
+{
+  "name": "Lapangan Bulutangkis Manisrejo",
+  "description": "Aplikasi jadwal sewa Lapangan Bulutangkis Manisrejo Senin–Minggu dengan pengingat pembayaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

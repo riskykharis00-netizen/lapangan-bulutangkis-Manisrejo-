@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lapangan Bulutangkis Manisrejo</string>
+    <string name="nav_schedule">Jadwal</string>
+    <string name="nav_history">Riwayat</string>
+    <string name="nav_payments">Tagihan</string>
+    <string name="nav_courts">Editor</string>
+    <string name="hero_subtitle">Jadwal Sewa Lapangan Bulutangkis Manisrejo Senin – Minggu</string>
+    <string name="notification_channel_name">Pengingat Pembayaran</string>
+    <string name="notification_channel_desc">Notifikasi jatuh tempo dan pengingat pembayaran sewa lapangan bulutangkis.</string>
+    <string name="cd_court_banner">Ilustrasi lapangan bulutangkis indoor</string>
+    <string name="cd_empty_schedule">Ilustrasi raket dan kok bulutangkis</string>
+    <string name="cd_add_booking">Tambah pemesanan lapangan</string>
+    <string name="cd_send_reminder">Kirim notifikasi pengingat pembayaran</string>
+    <string name="cd_mark_paid">Tandai pembayaran lunas</string>
+</resources>
